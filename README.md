@@ -1,15 +1,7 @@
-# 📚 Biblioteca Interativa
+# Biblioteca 📚
 
-Sistema web feito em HTML, CSS e JavaScript.
+Projeto que fiz no SENAI para controlar livros. 
 
-✨ O que faz:
-- Mostra mensagem ao clicar
-- Busca de livros
+A ideia era criar um sistema simples onde dá pra cadastrar os livros e organizar os empréstimos. Foi onde comecei a praticar C++ e organização de dados.
 
-🛠️ Tecnologias:
-HTML, CSS, JavaScript
-
-▶️ Como usar:
-Abrir biblioteca.html no navegador.
-
-Feito por Julia Martins - SENAI
+Ainda tá simples, mas já tá funcionando.
